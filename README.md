@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Harsh Gupta From Vit-B University
+## Hi there 👋 I'm Harsh Gupta 
 
 - 🔭 I’m currently working on Android Development
 - 🌱 I’m currently learning Machine Learning
